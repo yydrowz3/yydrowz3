@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @yydrowz3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Takuyin</h1>
+<h3 align="center">A passionate code noob wants to be a fullstack developer</h3>
 
-<!---
-yydrowz3/yydrowz3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![:yydrowz3](https://count.getloli.com/get/@:yydrowz3?theme=asoul)
+
+
+![Takuyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yydrowz3&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yydrowz3&layout=compact)
+
+
+
