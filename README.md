@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Takuyin</h1>
+<h1 align="center">Hi 👋, I'm TakujiYin</h1>
 <h3 align="center">A passionate code noob wanting to be a fullstack developer.</h3>
 
 ![:yydrowz3](https://count.getloli.com/get/@:yydrowz3?theme=asoul)
