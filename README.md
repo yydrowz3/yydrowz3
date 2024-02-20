@@ -6,15 +6,15 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevJayson/DevJayson/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h1 align="center">Hi there 👋</h1>
-I'm a passionate code noob wanting to be a fullstack developer.
+<h1 align="center">Hi there 👋</h1>  
+I'm a passionate code noob wanting to be a fullstack developer.  
 This is the place where I opensource stuff and break things 🤣
 
-🔭  I’m currently working on something cool 😉
-🌱  I’m currently focused on Machine Learning
-💬  Ask me about anything related to my projests
-👨‍💻  Read more about my projects at my links
-⚡  Fun fact: I want to raise a cat 🐈
+🔭  I’m currently working on something cool 😉  
+🌱  I’m currently focused on Machine Learning  
+💬  Ask me about anything related to my projests  
+👨‍💻  Read more about my projects at my links  
+⚡  Fun fact: I want to raise a cat 🐈  
 
 ![Takuyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yydrowz3&show_icons=true&count_private=true)
 
