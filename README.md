@@ -7,8 +7,8 @@
 </picture>
 
 <h1 align="center">Hi there 👋</h1>  
+<h3 align="center">I'm a passionate code noob wanting to be a fullstack developer.</h3>
 
-I'm a passionate code noob wanting to be a fullstack developer.    
 This is the place where I opensource stuff and break things 🤣
 
 🔭  I’m currently working on something cool 😉  
