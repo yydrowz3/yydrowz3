@@ -50,7 +50,7 @@ Aspire to be an independent full-stack developer.
 <p>
   <!-- <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" /> -->
   <!-- <img alt="fastify" src="https://img.shields.io/badge/-fastify-000000?style=flat-square&logo=nestjs&logoColor=white" /> -->
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC-?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-FF7800?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -88,12 +88,13 @@ Aspire to be an independent full-stack developer.
 </p>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yydrowz3&layout=compact)
 
 
-<picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yydrowz3&layout=compact" align=left />
-</picture>
 
+<!-- <picture> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yydrowz3&layout=compact" align=left /> -->
+<!-- </picture> -->
 
 <picture>
 <img src="https://count.getloli.com/get/@:yydrowz3?theme=asoul" align=right />
@@ -102,4 +103,5 @@ Aspire to be an independent full-stack developer.
 
 <!-- ![:yydrowz3](https://count.getloli.com/get/@:yydrowz3?theme=asoul) -->
 
-<p align=center><strong>お可愛いこと。</strong></p>
+
+<p align=left><strong>お可愛いこと。</strong></p>
