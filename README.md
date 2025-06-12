@@ -87,9 +87,19 @@ Aspire to be an independent full-stack developer.
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yydrowz3&layout=compact)
 
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yydrowz3&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yydrowz3&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yydrowz3&layout=compact" />
+</picture>
 
 <picture>
 <img src="https://count.getloli.com/get/@:yydrowz3?theme=asoul" align=right />
