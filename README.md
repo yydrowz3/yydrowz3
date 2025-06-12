@@ -88,7 +88,7 @@ Aspire to be an independent full-stack developer.
 
 
 
-
+<p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yydrowz3&layout=compact&theme=dark"
@@ -100,6 +100,8 @@ Aspire to be an independent full-stack developer.
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yydrowz3&layout=compact" />
 </picture>
+</p>
+
 
 <picture>
 <img src="https://count.getloli.com/get/@:yydrowz3?theme=asoul" align=right />
