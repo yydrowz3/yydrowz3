@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yydrowz3&show_icons=true" align=right />
 </picture>
 
-Hi there, I'm a programming student working on Machine Learning and CV.
+Hi there, I'm a Computer Science student working on Machine Learning and Computer Vision.
 
 This is the place where I opensource stuff and break things.
 
@@ -31,10 +31,10 @@ Aspire to be an independent full-stack developer.
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier"
       src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <!-- <img alt="TailwindCSS" -->
-    <!-- src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" /> -->
-  <!-- <img alt="Vite 2" src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" /> -->
-  <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="TailwindCSS"
+    src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
 
 </p>
 
@@ -47,6 +47,7 @@ Aspire to be an independent full-stack developer.
   <img alt="Java" src="https://img.shields.io/badge/-Java-FF7800?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-43853d?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB"
     src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Express"
