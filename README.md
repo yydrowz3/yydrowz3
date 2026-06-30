@@ -101,7 +101,20 @@ Aspire to be an independent full-stack developer.
   />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yydrowz3&layout=compact" />
 </picture>
+
+<picture>
+  <source
+    srcset="https://leetcard.jacoblin.cool/yydrowz3?theme=dark&ext=heatmap&site=cn"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://leetcard.jacoblin.cool/yydrowz3?theme=light&ext=heatmap&site=cn"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://leetcard.jacoblin.cool/yydrowz3?theme=light&ext=heatmap&site=cn" align=right />
+</picture>
 </p>
+
 
 
 <picture>
